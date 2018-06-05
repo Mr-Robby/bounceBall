@@ -1,0 +1,17 @@
+{
+  "name": "acceptic",
+  "version": "1.0.0",
+  "description": "Test Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Stalenkov",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.5.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "path": "^0.12.7"
+  }
+}
